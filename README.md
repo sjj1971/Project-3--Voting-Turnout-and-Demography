@@ -5,5 +5,5 @@ Team Members:
 1) Adrian Llamas
 2) Isaac Carranza
 3) Helma Zecena
-4) Jungje Son
+4) Jung Je Son
 5) Reggie Pelz
